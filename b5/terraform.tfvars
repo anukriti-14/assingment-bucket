@@ -1,1 +1,1 @@
-ss="my-s3-bucket"
+ss="anukriti12345"
