@@ -1,0 +1,4 @@
+variable "ss" {
+    type= string
+  
+}
